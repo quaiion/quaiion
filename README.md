@@ -1,6 +1,6 @@
 ### Hey there 👾
 
-Name's Korney, feelin curious about game development, system programming and data storage & processing methods. Mainly a fan of C/C++ languages. Studying computer science and technology in MIPT, Moscow. Looking forward to being a good grown-up programmer!
+Name's Korney, feelin curious about game development, system programming and data storage & processing methods. Mainly a fan of C/C++ languages. Studying computer science and technology in MIPT, Moscow. Looking forward to being a fine grown-up programmer!
 
 ***Here are some most significant projects I've created/contributed to:***
 - [Tarantool](https://github.com/tarantool/tarantool) \[[gh-3202](https://github.com/tarantool/tarantool/issues/3202)\]
