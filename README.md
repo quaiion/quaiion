@@ -10,4 +10,5 @@ Name's Korney, feelin curious about game development, system programming and dat
 - [Binary-tree based differentiator](https://github.com/quaiion/differentiator)
 
 #### Contacts
-email: <korney059@gmail.com>
+email: <korney059@gmail.com>  
+telegram: @quaiion
