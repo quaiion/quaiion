@@ -8,6 +8,7 @@ Name's Korney, feelin curious about game development, system programming and dat
 - [DEPA](https://github.com/quaiion/DEPA)
 - [Cache-friendly cyclic list](https://github.com/quaiion/cyclic-list)
 - [Binary-tree based differentiator](https://github.com/quaiion/differentiator)
+- [Bunch of simple programs, created while studying C++ and Linux](https://github.com/quaiion/scoob-labs)
 
 #### Contacts
 email: <korney059@gmail.com>  
